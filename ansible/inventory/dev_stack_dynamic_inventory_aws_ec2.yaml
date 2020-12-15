@@ -13,7 +13,7 @@ keyed_groups:
 
   - key: tags['swarm-role']
     prefix: 'role_'
-    separator: ''
+    separator: 'aa'
 
   - key: tags['environment']
     prefix: 'env_'
